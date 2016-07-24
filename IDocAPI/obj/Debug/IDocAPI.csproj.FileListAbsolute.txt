@@ -44,3 +44,6 @@ c:\users\user\documents\visual studio 2015\Projects\IDocAPI\IDocAPI\bin\System.W
 c:\users\user\documents\visual studio 2015\Projects\IDocAPI\IDocAPI\obj\Debug\IDocAPI.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2015\Projects\IDocAPI\IDocAPI\obj\Debug\IDocAPI.dll
 c:\users\user\documents\visual studio 2015\Projects\IDocAPI\IDocAPI\obj\Debug\IDocAPI.pdb
+c:\users\user\documents\visual studio 2015\Projects\IDocAPI\IDocAPI\bin\System.Web.Cors.dll
+c:\users\user\documents\visual studio 2015\Projects\IDocAPI\IDocAPI\bin\System.Web.Http.Cors.dll
+c:\users\user\documents\visual studio 2015\Projects\IDocAPI\IDocAPI\bin\System.Web.Http.Cors.xml
